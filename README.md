@@ -2,7 +2,6 @@
 - 18\.
 - self taught programmer.
 - currently studying computer science at Dawson college.
-- https://dreamys.studio/ (dreamy's studio).
 
 ## Languages
 ![](https://img.shields.io/badge/Java_8-ED8B00?style=for-the-badge&logo=oracle&logoColor=black)
