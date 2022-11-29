@@ -1,7 +1,12 @@
 ## About Me
 - 18\.
 - self taught programmer.
+- self taught creative designer.
+- avid gamer.
+- rugby starter.
 - currently studying computer science at Dawson college.
+
+## Socials
 
 ## Languages
 ![](https://img.shields.io/badge/Java_8-ED8B00?style=for-the-badge&logo=oracle&logoColor=black)
@@ -27,3 +32,6 @@
 ## Frameworks
 ![](https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+## Creative Software
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
