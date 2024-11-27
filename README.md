@@ -5,6 +5,7 @@
 - avid gamer.
 - rugby starter.
 - currently studying computer science at Dawson college.
+---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yu-Hua-Yang&hide=contribs,prs&show_icons=true&theme=material-palenight&locale=cn&hide_border=true&card_width=500px)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=material-palenight&hide_border=true&card_width=400px)](https://github.com/anuraghazra/github-readme-stats)
