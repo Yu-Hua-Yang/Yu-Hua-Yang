@@ -1,44 +1,36 @@
-<table style="width: 100%; border-collapse: collapse; border: none;" cellspacing="0" cellpadding="0">
+<table style="width: 100%; table-layout: fixed; border-collapse: collapse; border: none;" cellspacing="0" cellpadding="0">
   <tr>
-    <td style="border: none;">1</td>
-    <td rowspan="3" style="border: none;">
-      <div style="display: flex">
-        <div style="flex: 1; padding-left: 10px; display: flex; flex-direction: column; justify-content: center; align-items: center;">
-          <img src="https://github-readme-stats.vercel.app/api?username=Yu-Hua-Yang&hide=contribs,prs&show_icons=true&theme=material-palenight&hide_border=true" alt="Anurag's GitHub stats" style="width: 100%; margin: 0;">
-          <a href="https://github.com/anuraghazra/github-readme-stats" style="width: 100%; margin: 0;">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight&hide_border=true" alt="Top Langs" style="width: 100%; margin: 0;">
-          </a>
-        </div>
+    <!-- First row with HELLO content -->
+    <td colspan="2" style="border: none;">
+      <p>HELLO</p>
+    </td>
+  </tr>
+  <tr>
+    <!-- Left column (50% width) -->
+    <td style="border: none; width: 50%; padding: 0; margin: 0;">
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam placerat id ex nec malesuada. Donec </p>
+    </td>
+    <!-- Right column (50% width) with images -->
+    <td style="border: none; width: 50%; padding: 0; margin: 0;">
+      <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
+        <img src="https://github-readme-stats.vercel.app/api?username=Yu-Hua-Yang&hide=contribs,prs&show_icons=true&theme=material-palenight&hide_border=true" alt="Anurag's GitHub stats" style="width: 100%; margin: 0;">
+        <a href="https://github.com/anuraghazra/github-readme-stats" style="width: 100%; margin: 0;">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight&hide_border=true" alt="Top Langs" style="width: 100%; margin: 0;">
+        </a>
       </div>
     </td>
   </tr>
   <tr>
-    <td style="border: none;">3</td>
+    <!-- Row 3 -->
+    <td colspan="2" style="border: none;">3</td>
   </tr>
   <tr>
-    <td style="border: none;">4</td>
+    <!-- Row 4 -->
+    <td colspan="2" style="border: none;">4</td>
   </tr>
 </table>
 
 
-<div style="display: flex;">
-  <!-- Left Column -->
-  <div style="flex: 1; padding-right: 10px;">
-    Left Column Content
-  </div>
-
-  <!-- Right Column (Markdown Content inside HTML) -->
-  <div style="flex: 1; padding-left: 10px;">
-    <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Yu-Hua-Yang&hide=contribs,prs&show_icons=true&theme=material-palenight&locale=cn&hide_border=true" alt="Anurag's GitHub stats">
-    </p>
-    <p align="center">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=material-palenight&hide_border=true" alt="Top Langs">
-      </a>
-    </p>
-  </div>
-</div>
 
 
 
