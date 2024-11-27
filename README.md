@@ -5,7 +5,8 @@
 - avid gamer.
 - rugby starter.
 - currently studying computer science at Dawson college.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yu-Hua-Yang)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yu-Hua-Yang&hide=contribs,prs)
 ## Socials
 <a>![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
 <a href="https://www.facebook.com/yuhua.yang.5891">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
