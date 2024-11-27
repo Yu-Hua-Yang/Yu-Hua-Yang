@@ -14,9 +14,8 @@
     <td style="border: none; width: 50%; padding: 0; margin: 0;">
       <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
         <img src="https://github-readme-stats.vercel.app/api?username=Yu-Hua-Yang&hide=contribs,prs&show_icons=true&theme=material-palenight&hide_border=true" alt="Anurag's GitHub stats" style="width: 100%; margin: 0;">
-        <a href="https://github.com/anuraghazra/github-readme-stats" style="width: 100%; margin: 0;">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight&hide_border=true" alt="Top Langs" style="width: 100%; margin: 0;">
-        </a>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight&hide_border=true" alt="Top Langs" style="width: 100%; margin: 0;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yu-Hua-Yang&theme=material-palenight&hide_border=true" style="width: 100%;>
       </div>
     </td>
   </tr>
