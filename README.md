@@ -1,3 +1,26 @@
+<table style="width: 100%; border-collapse: collapse; border: none;" cellspacing="0" cellpadding="0">
+  <tr>
+    <td style="border: none;">1</td>
+    <td rowspan="3" style="border: none;">
+      <div style="display: flex">
+        <div style="flex: 1; padding-left: 10px; display: flex; flex-direction: column; justify-content: center; align-items: center;">
+          <img src="https://github-readme-stats.vercel.app/api?username=Yu-Hua-Yang&hide=contribs,prs&show_icons=true&theme=material-palenight&hide_border=true" alt="Anurag's GitHub stats" style="width: 100%; margin: 0;">
+          <a href="https://github.com/anuraghazra/github-readme-stats" style="width: 100%; margin: 0;">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight&hide_border=true" alt="Top Langs" style="width: 100%; margin: 0;">
+          </a>
+        </div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none;">3</td>
+  </tr>
+  <tr>
+    <td style="border: none;">4</td>
+  </tr>
+</table>
+
+
 <div style="display: flex;">
   <!-- Left Column -->
   <div style="flex: 1; padding-right: 10px;">
