@@ -12,7 +12,7 @@
 ---
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: 0 auto; text-align: center; width: 100%; height: 100vh;">
   <img 
-       src="https://github-readme-stats.vercel.app/api?username=Yu-Hua-Yang&hide=contribs&show_icons=true&theme=nightowl&hide_border=true&card_width=350" 
+       src="https://github-readme-stats.vercel.app/api?username=Yu-Hua-Yang&hide=contribs&show_icons=true&theme=nightowl&hide_border=true&card_width=300" 
        alt="GitHub Stats" 
        style="height: 136px;"
   />
