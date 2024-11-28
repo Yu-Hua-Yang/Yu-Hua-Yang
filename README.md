@@ -2,6 +2,36 @@
   <img src="https://static.vecteezy.com/system/resources/previews/013/086/273/non_2x/alien-planet-landscape-night-martian-surface-free-vector.jpg" alt="Header Image"  style="width: 100%;"/>
 </div>
 
+<div style="min-width: 100%; padding: 0; margin: 0;">
+  <table style="border: none; border-collapse: collapse; width: 100%; border-spacing: 0;">
+    <tr>
+      <td style="border: none; width: 50%;">
+        <h1>About Me</h1>
+        <ul>
+          <li>20</li>
+          <li>Self taught programmer</li>
+          <li>Self taught creative designer</li>
+          <li>Avid gamer</li>
+          <li>Rugby player</li>
+          <li>Currently studying Computer Science at Concordia University</li>
+        </ul>
+      </td>
+      <td style="border: none; width: 50%;">
+        <h1>Socials</h1>
+        <a href=""><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+        <a href="https://www.facebook.com/yuhua.yang.5891"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
+        <a href=""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+        <a href="https://www.instagram.com/yuhua._yang/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+        <a href="https://www.linkedin.com/in/yu-hua-yang-106929235"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+        <a href="https://twitter.com/YuHuaYang10?t=bJLWyBNVY49e4_HKtXvZhg&s=09"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+        <a><img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white"></a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
 ## About Me
 - 20\.
 - self taught programmer.
