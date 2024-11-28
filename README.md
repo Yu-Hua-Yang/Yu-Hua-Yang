@@ -40,23 +40,24 @@
 - rugby player.
 - currently studying computer science at Concordia University.
 ---
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: 0 auto; text-align: center;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: 0 auto; text-align: center; width: 100%; height: 100vh;">
   <img 
        src="https://github-readme-stats.vercel.app/api?username=Yu-Hua-Yang&hide=contribs&show_icons=true&theme=nightowl&hide_border=true&card_width=300" 
        alt="GitHub Stats" 
-       style="height: 144px;"
+       style="max-height: 30vh; width: auto; height: auto;"
   />
   <img 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=nightowl&hide_border=true&card_width=300" 
        alt="Top Languages" 
-       style="height: 144px;"
+       style="max-height: 30vh; width: auto; height: auto;"
   />
   <img 
       src="https://github-readme-streak-stats.herokuapp.com?user=Yu-Hua-Yang&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" 
       alt="GitHub Streak" 
-      style="height: 144px;"
+      style="max-height: 30vh; width: auto; height: auto;"
   />
 </div>
+
 
 
 ## Socials
