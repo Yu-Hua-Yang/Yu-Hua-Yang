@@ -12,19 +12,19 @@
 ---
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: 0 auto; text-align: center; width: 100%; height: 100vh;">
   <img 
-       src="https://github-readme-stats.vercel.app/api?username=Yu-Hua-Yang&hide=contribs&show_icons=true&theme=nightowl&hide_border=true&card_width=300" 
+       src="https://github-readme-stats.vercel.app/api?username=Yu-Hua-Yang&hide=contribs&show_icons=true&theme=nightowl&hide_border=true&card_width=350" 
        alt="GitHub Stats" 
-       style="max-height: 30vh; width: auto; height: auto;"
+       style="height: 136px;"
   />
   <img 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=nightowl&hide_border=true&card_width=300" 
        alt="Top Languages" 
-       style="max-height: 30vh; width: auto; height: auto;"
+       style="height: 136px;"
   />
   <img 
-      src="https://github-readme-streak-stats.herokuapp.com?user=Yu-Hua-Yang&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" 
-      alt="GitHub Streak" 
-      style="max-height: 30vh; width: auto; height: auto;"
+       src="https://github-readme-streak-stats.herokuapp.com?user=Yu-Hua-Yang&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" 
+       alt="GitHub Streak" 
+       style="height: 136px;"
   />
 </div>
 
