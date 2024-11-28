@@ -1,50 +1,34 @@
-<table style="width: 100%; table-layout: fixed; border-collapse: collapse; border: none;" cellspacing="0" cellpadding="0">
-  <tr>
-    <!-- First row with HELLO content -->
-    <td colspan="2" style="border: none;">
-      <p>HELLO</p>
-    </td>
-  </tr>
-  <tr>
-    <!-- Left column (50% width) -->
-    <td style="border: none; width: 50%; padding: 0; margin: 0;">
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam placerat id ex nec malesuada. Donec tempus eros fermentum, congue erat pellentesque, facilisis ipsum. Nunc ac ex lectus. Quisque mattis lacinia ex et tincidunt. Fusce eu quam dapibus, sagittis diam a, interdum augue.</p>
-    </td>
-    <!-- Right column (50% width) with images -->
-    <td style="border: none; width: 50%; padding: 0; margin: 0;">
-      <div style="display: flex; flex-direction: column; justify-content: center; align-items: flex-start; margin: 0; padding: 0; gap: 0;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Yu-Hua-Yang&hide=contribs,prs&show_icons=true&theme=material-palenight&hide_border=true" alt="Anurag's GitHub stats" style="width: 100%; margin: 0; padding: 0; flex-shrink: 0;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight&hide_border=true" alt="Top Langs" style="width: 100%; margin: 0; padding: 0; flex-shrink: 0;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yu-Hua-Yang&theme=material-palenight&hide_border=true" style="width: 100%; margin: 0; padding: 0; flex-shrink: 0;">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yu-Hua-Yang&theme=material-palenight&hide_border=true" style="width: 100%; margin: 0; padding: 0; flex-shrink: 0;">
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <!-- Row 3 -->
-    <td colspan="2" style="border: none;">3</td>
-  </tr>
-  <tr>
-    <!-- Row 4 -->
-    <td colspan="2" style="border: none;">4</td>
-  </tr>
-</table>
-
-
-
-
+<div align="center"">
+  <img src="https://static.vecteezy.com/system/resources/previews/013/086/273/non_2x/alien-planet-landscape-night-martian-surface-free-vector.jpg" alt="Header Image"  style="width: 100%;"/>
+</div>
 
 ## About Me
 - 20\.
 - self taught programmer.
 - self taught creative designer.
 - avid gamer.
-- rugby starter.
-- currently studying computer science at Dawson college.
+- rugby player.
+- currently studying computer science at Concordia University.
 ---
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: 0 auto; text-align: center;">
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=Yu-Hua-Yang&hide=contribs&show_icons=true&theme=nightowl&hide_border=true&card_width=300" 
+       alt="GitHub Stats" 
+       style="height: 144px;"
+  />
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=nightowl&hide_border=true&card_width=300" 
+       alt="Top Languages" 
+       style="height: 144px;"
+  />
+  <img 
+      src="https://github-readme-streak-stats.herokuapp.com?user=Yu-Hua-Yang&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" 
+      alt="GitHub Streak" 
+      style="height: 144px;"
+  />
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yu-Hua-Yang&hide=contribs,prs&show_icons=true&theme=material-palenight&locale=cn&hide_border=true&card_width=500px)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=material-palenight&hide_border=true&card_width=400px)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Socials
 <a>![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
 <a href="https://www.facebook.com/yuhua.yang.5891">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
