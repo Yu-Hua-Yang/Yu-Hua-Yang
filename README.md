@@ -14,17 +14,17 @@
   <img 
        src="https://github-readme-stats.vercel.app/api?username=Yu-Hua-Yang&hide=contribs&show_icons=true&theme=nightowl&hide_border=true&card_width=300" 
        alt="GitHub Stats" 
-       style="height: 133px;"
+       style="height: 130px;"
   />
   <img 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=nightowl&hide_border=true&card_width=300" 
        alt="Top Languages" 
-       style="height: 133px;"
+       style="height: 130px;"
   />
   <img 
        src="https://github-readme-streak-stats.herokuapp.com?user=Yu-Hua-Yang&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" 
        alt="GitHub Streak" 
-       style="height: 133px;"
+       style="height: 130px;"
   />
 </div>
 
