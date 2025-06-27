@@ -122,7 +122,7 @@
        style="height: 121px;"
   />
   <img 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=Yu-Hua-Yang" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=Yu-Hua-Yang&theme=nightowl&hide_border=true" 
        alt="GitHub Streak" 
        style="height: 121px;"
   />
